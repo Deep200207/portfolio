@@ -28,7 +28,7 @@ export default function Hero() {
              className="rounded-full bg-accent px-6 py-3 font-medium text-ink transition-transform hover:-translate-y-0.5">
             View projects
           </a>
-          <a href="/deepakcv.pdf" target="_blank" rel="noopener noreferrer"
+          <a href="/final_Resume (1).pdf" target="_blank" rel="noopener noreferrer"
              className="rounded-full border border-line px-6 py-3 font-medium transition-colors hover:border-accent hover:text-accent">
             Download resume
           </a>
